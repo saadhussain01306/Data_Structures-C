@@ -36,3 +36,12 @@ int main()
     }
     
 }
+
+// enter the n value
+// 2
+// enter the arry elments one by one
+// 12
+// 23
+// enter the value at which element is to be deleted1
+// new array is
+// 23
